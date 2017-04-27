@@ -1,0 +1,971 @@
+.Header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 111;
+}
+.Logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 110;
+}
+.Attitude {
+  font-size: 42px;
+  font-family: "Georgia";
+  color: rgb(228, 223, 200);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 20.16px;
+  top: 72.447px;
+  z-index: 109;
+}
+.Free_PSD_Website_Tem {
+  font-size: 12px;
+  font-family: "Georgia";
+  color: rgb(218, 218, 218);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 20px;
+  top: 88.842px;
+  z-index: 108;
+}
+.Search {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 106;
+}
+.Search_this_website_ {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(76, 76, 76);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 646px;
+  top: 38.638px;
+  z-index: 105;
+}
+.Rectangle {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 641px;
+  top: 21px;
+  width: 248px;
+  height: 23px;
+  z-index: 104;
+}
+.Rectangle {
+  background-color: rgb(228, 223, 200);
+  position: absolute;
+  left: 640px;
+  top: 20px;
+  width: 250px;
+  height: 25px;
+  z-index: 103;
+}
+.SEARCH {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 912px;
+  top: 38.638px;
+  z-index: 102;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 901px;
+  top: 21px;
+  width: 78px;
+  height: 23px;
+  z-index: 101;
+}
+.Rectangle {
+  background-color: rgb(228, 223, 200);
+  position: absolute;
+  left: 900px;
+  top: 20px;
+  width: 80px;
+  height: 25px;
+  z-index: 100;
+}
+.TopNavi {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 98;
+}
+.Cursor {
+  background-image: url("Cursor.png");
+  position: absolute;
+  left: 456px;
+  top: 94px;
+  width: 17px;
+  height: 22px;
+  z-index: 97;
+}
+.Company {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(149, 166, 10);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 423px;
+  top: 88.774px;
+  z-index: 96;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 423px;
+  top: 98px;
+  width: 60px;
+  height: 1px;
+  z-index: 95;
+}
+.Services {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(228, 223, 200);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 544px;
+  top: 88.774px;
+  z-index: 94;
+}
+.Products {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(228, 223, 200);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 661px;
+  top: 87.774px;
+  z-index: 93;
+}
+.Gallery {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(228, 223, 200);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 780px;
+  top: 87.774px;
+  z-index: 92;
+}
+.Long_Link_Text {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(228, 223, 200);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 885px;
+  top: 87.774px;
+  z-index: 91;
+}
+.Rectangle {
+  background-color: rgb(42, 41, 37);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 120px;
+  z-index: 89;
+}
+
+
+
+
+.Intro {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 87;
+}
+.Cursus_penati_saccum {
+  font-size: 42px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 21px;
+  top: 189.447px;
+  width: 410px;
+  height: 41px;
+  z-index: 86;
+}
+.Cursuspenatisaccum_u {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(51, 51, 51);
+  line-height: 1.4;
+  text-align: left;
+  position: absolute;
+  left: 22px;
+  top: 222.974px;
+  width: 440px;
+  height: 49px;
+  z-index: 85;
+}
+.Large_Image {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 84;
+}
+._435_x_240px {
+  font-size: 36px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 143px;
+  top: 428.526px;
+  z-index: 83;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 25px;
+  top: 295px;
+  width: 435px;
+  height: 240px;
+  z-index: 82;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 21px;
+  top: 291px;
+  width: 443px;
+  height: 248px;
+  z-index: 81;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 20px;
+  top: 290px;
+  width: 445px;
+  height: 250px;
+  z-index: 80;
+}
+._4_Images {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 78;
+}
+._100_x_100 {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 534px;
+  top: 196.763px;
+  z-index: 77;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 500px;
+  top: 155px;
+  width: 100px;
+  height: 100px;
+  z-index: 76;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 496px;
+  top: 151px;
+  width: 108px;
+  height: 108px;
+  z-index: 75;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 495px;
+  top: 150px;
+  width: 110px;
+  height: 110px;
+  z-index: 74;
+}
+._100_x_100 {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 659px;
+  top: 196.763px;
+  z-index: 73;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 625px;
+  top: 155px;
+  width: 100px;
+  height: 100px;
+  z-index: 72;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 621px;
+  top: 151px;
+  width: 108px;
+  height: 108px;
+  z-index: 71;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 620px;
+  top: 150px;
+  width: 110px;
+  height: 110px;
+  z-index: 70;
+}
+._100_x_100 {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 784px;
+  top: 196.763px;
+  z-index: 69;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 750px;
+  top: 155px;
+  width: 100px;
+  height: 100px;
+  z-index: 68;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 746px;
+  top: 151px;
+  width: 108px;
+  height: 108px;
+  z-index: 67;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 745px;
+  top: 150px;
+  width: 110px;
+  height: 110px;
+  z-index: 66;
+}
+._100_x_100 {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 909px;
+  top: 196.763px;
+  z-index: 65;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 875px;
+  top: 155px;
+  width: 100px;
+  height: 100px;
+  z-index: 64;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 871px;
+  top: 151px;
+  width: 108px;
+  height: 108px;
+  z-index: 63;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 870px;
+  top: 150px;
+  width: 110px;
+  height: 110px;
+  z-index: 62;
+}
+.Cursus_penati_saccum {
+  font-size: 18px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 514px;
+  top: 324.763px;
+  width: 196px;
+  height: 19px;
+  z-index: 60;
+}
+.Cursuspenatisaccum_u {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(228, 223, 200);
+  line-height: 1.6;
+  text-align: left;
+  position: absolute;
+  left: 517px;
+  top: 360.838px;
+  width: 206px;
+  height: 125px;
+  z-index: 59;
+}
+.Continue_Reading_» {
+  font-size: 13px;
+  font-family: "Verdana";
+  color: rgb(149, 166, 10);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 579px;
+  top: 514.774px;
+  z-index: 58;
+}
+.Rectangle {
+  background-color: rgb(30, 30, 30);
+  position: absolute;
+  left: 570px;
+  top: 495px;
+  width: 160px;
+  height: 25px;
+  z-index: 57;
+}
+.Image {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 56;
+}
+._200_x_200px {
+  font-size: 24px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 791px;
+  top: 424.684px;
+  z-index: 55;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 755px;
+  top: 315px;
+  width: 200px;
+  height: 200px;
+  z-index: 54;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 751px;
+  top: 311px;
+  width: 208px;
+  height: 208px;
+  z-index: 53;
+}
+.Rectangle {
+  background-color: rgb(30, 30, 30);
+  position: absolute;
+  left: 750px;
+  top: 310px;
+  width: 210px;
+  height: 210px;
+  z-index: 52;
+}
+.Rectangle {
+  background-color: rgb(51, 51, 51);
+  position: absolute;
+  left: 495px;
+  top: 290px;
+  width: 485px;
+  height: 250px;
+  z-index: 50;
+}
+.Background_colour {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 0px;
+  top: 120px;
+  width: 1000px;
+  height: 450px;
+  z-index: 49;
+}
+
+
+
+
+.Content {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 47;
+}
+.Indonectetus_facilis {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(51, 51, 51);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 19px;
+  top: 619.07px;
+  z-index: 46;
+}
+.Rectangle {
+  background-color: rgb(139, 137, 125);
+  position: absolute;
+  left: 20px;
+  top: 632px;
+  width: 300px;
+  height: 1px;
+  z-index: 45;
+}
+.Morbitincidunt_mauri {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 19px;
+  top: 666.038px;
+  width: 290px;
+  height: 55px;
+  z-index: 44;
+}
+._300_x_200px {
+  font-size: 24px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 100px;
+  top: 837.684px;
+  z-index: 43;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 20px;
+  top: 728px;
+  width: 300px;
+  height: 200px;
+  z-index: 42;
+}
+.Indonectetus_facilis {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(51, 51, 51);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 349px;
+  top: 619.07px;
+  z-index: 41;
+}
+.Rectangle {
+  background-color: rgb(139, 137, 125);
+  position: absolute;
+  left: 350px;
+  top: 632px;
+  width: 300px;
+  height: 1px;
+  z-index: 40;
+}
+.Morbitincidunt_mauri {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 349px;
+  top: 666.038px;
+  width: 290px;
+  height: 55px;
+  z-index: 39;
+}
+._300_x_200px {
+  font-size: 24px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 430px;
+  top: 837.684px;
+  z-index: 38;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 350px;
+  top: 728px;
+  width: 300px;
+  height: 200px;
+  z-index: 37;
+}
+.Indonectetus_facilis {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(51, 51, 51);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 679px;
+  top: 619.07px;
+  z-index: 36;
+}
+.Rectangle {
+  background-color: rgb(139, 137, 125);
+  position: absolute;
+  left: 680px;
+  top: 632px;
+  width: 300px;
+  height: 1px;
+  z-index: 35;
+}
+.Morbitincidunt_mauri {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(51, 51, 51);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 679px;
+  top: 666.038px;
+  width: 290px;
+  height: 55px;
+  z-index: 34;
+}
+._300_x_200px {
+  font-size: 24px;
+  font-family: "Georgia";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 760px;
+  top: 837.684px;
+  z-index: 33;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 680px;
+  top: 728px;
+  width: 300px;
+  height: 200px;
+  z-index: 32;
+}
+
+
+
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 30;
+}
+.Newsletter {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 29;
+}
+.Stay_In_The_Know__ {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(152, 152, 154);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 19px;
+  top: 1007.07px;
+  z-index: 28;
+}
+.Rectangle {
+  background-color: rgb(94, 94, 94);
+  position: absolute;
+  left: 20px;
+  top: 1013px;
+  width: 300px;
+  height: 1px;
+  z-index: 27;
+}
+.Please_enter_your_em {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(152, 152, 154);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 19px;
+  top: 1036.638px;
+  z-index: 26;
+}
+.Form {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 25;
+}
+.Rectangle {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 20px;
+  top: 1049px;
+  width: 245px;
+  height: 25px;
+  z-index: 24;
+}
+.GO {
+  font-size: 14px;
+  font-family: "Verdana";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 278px;
+  top: 1067.911px;
+  z-index: 23;
+}
+.Rectangle {
+  background-color: rgb(149, 166, 10);
+  position: absolute;
+  left: 271px;
+  top: 1050px;
+  width: 36px;
+  height: 23px;
+  z-index: 22;
+}
+.Rectangle {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 270px;
+  top: 1049px;
+  width: 38px;
+  height: 25px;
+  z-index: 21;
+}
+.To_unsubsribe_please {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(152, 152, 154);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 20px;
+  top: 1100.638px;
+  z-index: 19;
+}
+.Services {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(153, 153, 153);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 389px;
+  top: 1006.07px;
+  z-index: 17;
+}
+.Rectangle {
+  background-color: rgb(94, 94, 94);
+  position: absolute;
+  left: 390px;
+  top: 1013px;
+  width: 180px;
+  height: 1px;
+  z-index: 16;
+}
+.Lorem_ipsum_dolor_Su {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(149, 166, 10);
+  line-height: 1.4;
+  text-align: left;
+  position: absolute;
+  left: 389px;
+  top: 1039.038px;
+  z-index: 15;
+}
+.Title_Text {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(153, 153, 153);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 595px;
+  top: 1007.07px;
+  z-index: 14;
+}
+.Rectangle {
+  background-color: rgb(94, 94, 94);
+  position: absolute;
+  left: 595px;
+  top: 1013px;
+  width: 180px;
+  height: 1px;
+  z-index: 13;
+}
+.Lorem_ipsum_dolor_Su {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(149, 166, 10);
+  line-height: 1.4;
+  text-align: left;
+  position: absolute;
+  left: 594px;
+  top: 1039.038px;
+  z-index: 12;
+}
+.Title_Text {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: rgb(153, 153, 153);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 800px;
+  top: 1007.07px;
+  z-index: 11;
+}
+.Rectangle {
+  background-color: rgb(94, 94, 94);
+  position: absolute;
+  left: 800px;
+  top: 1013px;
+  width: 180px;
+  height: 1px;
+  z-index: 10;
+}
+.Lorem_ipsum_dolor_Su {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(149, 166, 10);
+  line-height: 1.4;
+  text-align: left;
+  position: absolute;
+  left: 799px;
+  top: 1039.038px;
+  z-index: 9;
+}
+.Rectangle {
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 0px;
+  top: 958px;
+  width: 1000px;
+  height: 172px;
+  z-index: 8;
+}
+
+
+
+
+.CopyRight {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1000px;
+  height: 1175px;
+  z-index: 6;
+}
+.Copyright_©_2013_Dom {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(82, 82, 82);
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 19px;
+  top: 1159.638px;
+  z-index: 5;
+}
+.Template_by_OS_Templ {
+  font-size: 12px;
+  font-family: "Verdana";
+  color: rgb(82, 82, 82);
+  line-height: 1;
+  text-align: right;
+  position: absolute;
+  left: 811px;
+  top: 1159.638px;
+  z-index: 4;
+}
+.Rectangle {
+  background-color: rgb(31, 31, 31);
+  position: absolute;
+  left: 0px;
+  top: 1130px;
+  width: 1000px;
+  height: 45px;
+  z-index: 3;
+}
